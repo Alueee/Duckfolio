@@ -25,7 +25,7 @@ export function Links({ websiteLinks }: LinksProps) {
         <span className="bg-[var(--theme-primary)]/10 dark:bg-[var(--theme-primary)]/20 text-[var(--theme-primary)] dark:text-[var(--theme-secondary)] p-3 rounded-xl mr-4 flex items-center justify-center">
           <ExternalLink size={24} />
         </span>
-        我的链接
+        LINK
       </motion.h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
