@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Alue",
-    "bio": "print("Hello, World!")",
+    "bio": "Hello, World!",
     "avatar": "/avatar.png"
   },
   "socialLinks": [
