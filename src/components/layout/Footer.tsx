@@ -17,12 +17,12 @@ export function Footer({ name }: FooterProps) {
       </p>
       <div className="flex justify-center space-x-4">
         <a
-          href="https://github.com/Yorlg"
+          href="https://uk.cd"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-[var(--theme-primary)]  dark:hover:text-[var(--theme-secondary)] transition-colors"
         >
-          Yorlg
+          Alue
         </a>
         <span>•</span>
         <a
